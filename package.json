@@ -1,0 +1,17 @@
+{
+  "name": "loop-test-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "delay": "^4.3.0",
+    "node-fetch": "^2.6.0",
+    "wtfnode": "^0.8.1"
+  }
+}
